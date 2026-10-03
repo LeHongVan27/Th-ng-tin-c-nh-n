@@ -7,13 +7,13 @@
     </head>
     <body>
         <h1 id="main">Thông Tin Cá Nhân</h1>
-        <h2><strong>Thông tin cơ bản</strong></h2>
+        <h2>Thông tin cơ bản</h2>
         <p>Họ tên: Lê Hồng Văn</p>
-        <p>Ngày sinh:11/09/2007</p>
+        <p>Ngày sinh: 11/09/2007</p>
         <p>Lớp: K19-ICT4</p>
-        <h3><strong>Ảnh đại diện</strong></h3>
+        <h3>Ảnh đại diện</h3>
             <img src="https://i.ibb.co/prLxDqDc/d0298e56-e96c-45d2-af8f-4bc510c4752a.jpg" alt="Ảnh đại diện của Lê Hồng Văn" width="240">
-        <h3><strong>Danh sách sở thích</strong></h3>
+        <h3>Danh sách sở thích</h3>
             <ul>
                 <li>Đọc truyện</li>
                 <li>Chơi Valorant</li>
